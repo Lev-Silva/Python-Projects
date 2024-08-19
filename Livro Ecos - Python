@@ -1,0 +1,10 @@
+print('𝕺𝖘 𝕰𝖎𝖝𝖔𝖘 𝖉𝖆 𝕮𝖆𝖑𝖆𝖒𝖎𝖉𝖆𝖉𝖊')
+
+print('1 - Celeste')
+print('2 - Catthus')
+print('3 - Dante')
+print('4 - Edward')
+print('5 - Senju')
+
+Passo_0 = input('Qual rota tomará?:')
+print(f'O caminho {Passo_0} se torna um com o seu')
